@@ -1,4 +1,8 @@
-### Hi there 👋
+<h2> Hi, I'm Matrixer <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+
+I've been immersed in mobile automation tools and platform development, currently diving deep into HarmonyOS automation.
+
+I like connecting with different people, so if you want to say hi, I'll be happy to meet you more! 😃
 
 <!--
 **codematrixer/codematrixer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- ```javascript
+const Matrixer = {
+    pronouns: "He" | "Him",
+    code: ["Python", "Java"],
+    connectMe: "tobetheender@gmail.com",
+    askMeAbout: ["android dev", "harmony dev", "tech", "app dev", "test dev"],
+    technologies: {
+       mobileApp: ["Android App", "Harmony App"],
+       testDev: ["Automated test", "harmony", "xctest", "uiautomator", "app perf", "rtc test"],
+       misc: ["scrcpy", "ffmpeg"]
+    },
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+``` -->
+
+### GitHub Stats
+
+<p align="left"> 
+  <strong>Visitor count</strong><br>
+  <img src="https://profile-counter.glitch.me/codematrixer/count.svg" />
+</p>
+
+
+[![Matrixer's github stats](https://github-readme-stats.vercel.app/api?username=codematrixer&show_icons=true&theme=merko&hide=["contribs","issues"])](https://github.com/codematrixer)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codematrixer&layout=compact&langs_count=6&hide=assembly&theme=dark)](https://github.com/codematrixer)
