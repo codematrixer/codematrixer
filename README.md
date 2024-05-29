@@ -1,6 +1,6 @@
 <h2> Hi, I'm Matrixer <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-I've been immersed in mobile automation tools and platform development, currently diving deep into HarmonyOS automation.
+I've been immersed in mobile automation tools and platform development, currently diving deep into Harmony Next automation.
 
 I like connecting with different people, so if you want to say hi, I'll be happy to meet you more! 😃
 
