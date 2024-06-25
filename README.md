@@ -1,4 +1,4 @@
-<h2> Hi, I'm Matrixer <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Matrixer </h2>
 
 I've been immersed in mobile automation tools and platform development, currently diving deep into Harmony Next automation.
 
@@ -35,11 +35,12 @@ const Matrixer = {
 ``` -->
 
 ### GitHub Stats
-
+<!--
 <p align="left"> 
   <strong>Visitor count</strong><br>
   <img src="https://profile-counter.glitch.me/codematrixer/count.svg" />
 </p>
+-->
 
 <div>
 <img align="center" height="140px" style="float: left" src="https://github-readme-stats-xcanwin.vercel.app/api?username=codematrixer&show_icons=true&theme=algolia&hide=contribs,prs" alt="Anurag's github stats" /> 
