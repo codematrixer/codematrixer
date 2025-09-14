@@ -1,7 +1,3 @@
-<h2> Hi, I'm Matrixer </h2>
-
-I've been immersed in mobile automation tools and platform development, currently diving deep into HarmonyOS NEXT automation.
-
 <!--
 **codematrixer/codematrixer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
